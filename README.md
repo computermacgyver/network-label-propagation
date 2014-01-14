@@ -8,7 +8,7 @@ This code was used to detect community structures in a network of Twitter mentio
 If you use this code in support of an academic publication, please cite the original paper as well as:
    
     Hale, S. A. (2014) Global Connectivity and Multilinguals in the Twitter Network. 
-    In Proceedings gs of the 2014 ACM Annual Conference on Human Factors in Computing Systems, 
+    In Proceedings of the 2014 ACM Annual Conference on Human Factors in Computing Systems, 
     ACM (Montreal, Canada).
 
   
